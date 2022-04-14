@@ -100,7 +100,8 @@
         6,
         7,
         8,
-        9
+        9,
+        14
       ],
       "has_variations": false,
       "has_prevolve": false,
@@ -125,7 +126,8 @@
         6,
         7,
         8,
-        9
+        9,
+        14
       ],
       "has_variations": false,
       "has_prevolve": true,
@@ -148,7 +150,8 @@
         6,
         7,
         8,
-        9
+        9,
+        14
       ],
       "has_variations": false,
       "has_prevolve": true,
@@ -171,7 +174,8 @@
         6,
         7,
         8,
-        9
+        9,
+        14
       ],
       "has_variations": false,
       "has_prevolve": false,
@@ -202,7 +206,8 @@
         6,
         7,
         8,
-        9
+        9,
+        14
       ],
       "has_variations": true,
       "has_prevolve": true,
@@ -274,14 +279,14 @@
     {
       "id": 8,
       "number": 94,
-      "short_name": "ChilReign",
-      "name": "Chilling Reign"
+      "short_name": "EvoSkies",
+      "name": "Evolving Skies"
     },
     {
       "id": 9,
       "number": 95,
-      "short_name": "EvoSkies",
-      "name": "Evolving Skies"
+      "short_name": "FusStrike",
+      "name": "Fusion Strike"
     },
     {
       "id": 10,
@@ -477,7 +482,24 @@
       ],
       "has_special_style": true,
       "rarities": []
-    }
+    },
+    {
+      "id": 14,
+      "short_name": "Dragon",
+      "name": "Dragon",
+      "supertypes": [
+        1,
+        4
+      ],
+      "has_subtypes": true,
+      "subtype_optional": false,
+      "is_energy": true,
+      "rarities": [
+        1,
+        2,
+        3,
+        4
+      ]
   ],
   "rarity_icons": [
     {
