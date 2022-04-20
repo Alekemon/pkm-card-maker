@@ -503,12 +503,7 @@
       "has_subtypes": true,
       "subtype_optional": false,
       "is_energy": true,
-      "rarities": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "rarities": []
     }
   ],
   "rarity_icons": [
